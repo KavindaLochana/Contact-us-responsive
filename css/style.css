@@ -131,7 +131,7 @@ form h2{
     left: 10px;
     top: 20px;
     transform: translateY(-50%);
-    color: #999;
+    color: #dfdfdf;
     font-size: 18px;
     transition: .3s;
 
@@ -157,7 +157,7 @@ a{
     display: block;
     text-align: right;
     text-decoration: none;
-    color: #999;
+    color: rgb(233, 233, 233);
     font-size: 0.9rem;
     transition: .3s;
 }
